@@ -51,17 +51,6 @@ Welcome to **IceWorld**, a user-friendly, responsive, and visually delightful ic
 
 ---
 
-## 🆕 Roadmap
-
-- Add a hero carousel or embedded video  
-- Integrate pre-order/e-commerce workflow  
-- Expand with “About” or blog sections for SEO  
-- Replace icon fonts with inline SVGs  
-- Automate image build pipelines (Webpack/Gulp)  
-- Enhance accessibility with tailored alt text
-
----
-
 ## 🎉 Credits
 
 - Fonts: **Google Fonts – Poppins**  
