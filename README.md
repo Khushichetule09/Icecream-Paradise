@@ -15,11 +15,9 @@ Welcome to **IceWorld**, a user-friendly, responsive, and visually delightful ic
 
 ---
 
-# 👀 Preview
+##👀 Preview
 
-![Alt text](assets/Preview.png)
-
-
+![Alt text](images/Preview.png)
 
 
 ---
