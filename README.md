@@ -55,7 +55,7 @@ Welcome to **IceWorld**, a user-friendly, responsive, and visually delightful ic
 
 - Fonts: **Google Fonts – Poppins**  
 - Icons: **Remixicon**  
-- Design & build by **Khushi Chetule**, for **IceWorld**
+- Design & build by **Khushi Chetule**  for **IceWorld**
 
 ---
 
